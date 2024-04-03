@@ -26,6 +26,7 @@
           <option value="jp">일본</option>
           <option value="etc">기타</option>
       </select>
+      <br>
       <label>취미</label>
       <input type="checkbox" name="hobbies" id="movie" value="movie"><label for="movie">영화</label>
       <input type="checkbox" name="hobbies" id="music" value="music"><label for="music">음악</label>
@@ -58,6 +59,7 @@
             <option value="jp">일본</option>
             <option value="etc">기타</option>
         </select>
+        <br>
         <label>취미</label>
         <input type="checkbox" name="hobbies" id="movie1" value="movie"><label for="movie1">영화</label>
         <input type="checkbox" name="hobbies" id="music1" value="music"><label for="music1">음악</label>

@@ -18,7 +18,7 @@
             </tr>
             <tr>
                 <td colspan="2">
-                    <button type="submit">전송</button>
+                    <button type="submit">전송</button>       <!-- 전송 버튼은 두 열에 영향받음 -->
                 </td>
             </tr>
           </table>

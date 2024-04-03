@@ -47,6 +47,7 @@ public class RedirectServlet extends HttpServlet {
 
         }
 
+
         StringBuilder responseText = new StringBuilder ();
         responseText.append("<!doctype html>\n")
                 .append("<html>\n")

@@ -21,6 +21,7 @@ public class CookieHandlerServlet extends HttpServlet {
         System.out.println("firstName = " + firstName);
         System.out.println("lastName = " + lastName);
 
+
 //        resp.sendRedirect("redirect");
 
         /* 필기. 쿠키 조리법

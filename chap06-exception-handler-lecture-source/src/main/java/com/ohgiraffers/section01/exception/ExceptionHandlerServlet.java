@@ -18,6 +18,8 @@ public class ExceptionHandlerServlet extends HttpServlet {
         /* 필기.
          *   Request 객체에는 parameter 영역과 attribute 영역이 존재한다.
          *   attribute 영역에는 뭐가 있지?
+         *   attribute 서버 측에서 요청을 처리하고 서블릿 간 데이터 전달 및 보관
+         *   parameter 는 클라이언트가 서버로 전송하는 데이터.
          *  */
 
         Enumeration<String> attrNames = req.getAttributeNames();

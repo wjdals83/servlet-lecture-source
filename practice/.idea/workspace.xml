@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a73b18e1-cb9e-4659-8f2b-28442c06e3ab" name="Changes" comment="" />
+    <list default="true" id="a73b18e1-cb9e-4659-8f2b-28442c06e3ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap03-parameter-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap03-parameter-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap03-parameter-lecture-source/src/main/java/com/ohgiraffers/section02/formdata/FormDataTestServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap03-parameter-lecture-source/src/main/java/com/ohgiraffers/section02/formdata/FormDataTestServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap03-parameter-lecture-source/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../chap03-parameter-lecture-source/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05-response-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05-response-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06-exception-handler-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-exception-handler-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06-exception-handler-lecture-source/src/main/java/com/ohgiraffers/section01/exception/ExceptionHandlerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-exception-handler-lecture-source/src/main/java/com/ohgiraffers/section01/exception/ExceptionHandlerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07-forward-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07-forward-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07-forward-lecture-source/src/main/java/com/ohgiraffers/section01/forward/PrintLoginSuccessServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07-forward-lecture-source/src/main/java/com/ohgiraffers/section01/forward/PrintLoginSuccessServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08-redirect-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-redirect-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08-redirect-lecture-source/src/main/java/com/ohgiraffers/section01/othersite/OtherSiteRedirectServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-redirect-lecture-source/src/main/java/com/ohgiraffers/section01/othersite/OtherSiteRedirectServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09-cookie-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-cookie-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09-cookie-lecture-source/src/main/java/com/ohgiraffers/section01/cookie/CookieHandlerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-cookie-lecture-source/src/main/java/com/ohgiraffers/section01/cookie/CookieHandlerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09-cookie-lecture-source/src/main/java/com/ohgiraffers/section01/cookie/RedirectServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-cookie-lecture-source/src/main/java/com/ohgiraffers/section01/cookie/RedirectServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09-cookie-lecture-source/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-cookie-lecture-source/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap10-session-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap10-session-lecture-source/.idea/gradle.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2eUqCydIFjXIsOhnuqaHPqpyDcS" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -18,8 +41,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Lecture/08_Servlet/01_lecture-source/practice",
+    "last_opened_file_path": "C:/Lecture/08_Servlet/01_lecture-source/practice/chap11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -33,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711969380693</updated>
       <workItem from="1711969381723" duration="96000" />
+      <workItem from="1712122627793" duration="683000" />
     </task>
     <servers />
   </component>

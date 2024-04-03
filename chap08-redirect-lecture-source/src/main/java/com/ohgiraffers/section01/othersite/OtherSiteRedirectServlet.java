@@ -26,6 +26,5 @@ public class OtherSiteRedirectServlet extends HttpServlet {
         *  */
 
         resp.sendRedirect("http://www.naver.com");          // url 주소가 아예 바뀐다.
-
     }
 }

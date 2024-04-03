@@ -32,7 +32,6 @@ public class FormDataTestServlet extends HttpServlet {
 
         Map<String, String[]> requestMap = request.getParameterMap();
         Set<String> keySet = requestMap.keySet(); // set 은 중복을 허용하지 않는다.
-
         Iterator<String> keyIter = keySet.iterator();      // 뒤죽박죽인 애들을 순서가 있게 만들어준다
 
         while (keyIter.hasNext()) {

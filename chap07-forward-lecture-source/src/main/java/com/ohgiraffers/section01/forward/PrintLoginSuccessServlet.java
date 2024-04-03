@@ -15,7 +15,7 @@ public class PrintLoginSuccessServlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
-        String userId = (String) req.getAttribute("userId");         // 값을 가져오기 위해 attribute 쓰기. 객체라 String 으로 변환필요
+        String userId = (String) req.getAttribute("userId");         // 서블릿 값을 가져오기 위해 attribute 쓰기. 객체라 String 으로 변환필요
 
         System.out.println("forward 해서 전달 받은 userId : " + userId);
 
